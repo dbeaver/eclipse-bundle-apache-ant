@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Ant minimum package
+Bundle-SymbolicName: org.apache.ant;singleton:=true
+Bundle-Version: 1.10.0
+Bundle-ClassPath: .
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: JKISS
+Export-Package: org.apache.tools.ant.types.selectors
